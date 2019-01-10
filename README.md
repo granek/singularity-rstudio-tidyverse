@@ -1,11 +1,11 @@
 # Singularity RStudio Server with Tidyverse and Knitting
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/2081)
 
 Singularity image for [RStudio Server with tidyverse and knitting support]. It was built on top of the
 Singularity image [nickjer/singularity-rstudio]
 
-].
 
 This README was shamelessly modified from [https://github.com/nickjer/singularity-rstudio]
 This is still a work in progress.
