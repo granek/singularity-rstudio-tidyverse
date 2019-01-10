@@ -1,5 +1,5 @@
 BootStrap: shub
-From: nickjer/singularity-rstudio:3.5.2
+From: nickjer/singularity-rstudio
 
 %labels
   Maintainer Josh Granek
