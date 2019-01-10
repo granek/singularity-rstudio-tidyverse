@@ -21,8 +21,5 @@ From: nickjer/singularity-rstudio
   # Install tidyverse and packages necessary for knitting to HTML 
    Rscript -e "install.packages(pkgs = c('tidyverse','caTools','rprojroot'), \
      repos='https://cran.revolutionanalytics.com/', \
-     dependencies=TRUE, 
+     dependencies=TRUE, \
      clean = TRUE)"
-
-  # Clean up
-  rm -rf /var/lib/apt/lists/*
