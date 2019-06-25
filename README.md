@@ -1,3 +1,7 @@
+# Deprecated
+This image is deprecated.  
+It has been superseded by [granek/singularity-rstudio-base](https://github.com/granek/singularity-rstudio-base).
+
 # Singularity RStudio Server with Tidyverse and Knitting
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
